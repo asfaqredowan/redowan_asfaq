@@ -1,4 +1,4 @@
-package day4_04192020;
+package Day4_04192020;
 
 public class split_command {
     public static void main(String[] args) {

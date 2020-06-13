@@ -1,10 +1,8 @@
-package day6_04262020;
+package Day6_04262020;
 
 import Reusable_Libraries.Reusable_Library;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.io.IOException;
 

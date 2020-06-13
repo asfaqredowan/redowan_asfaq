@@ -1,4 +1,4 @@
-package day3_04182020;
+package Day3_04182020;
 
 public class Loop_conditional_statement {
     //only print out city when its brooklyn or queens

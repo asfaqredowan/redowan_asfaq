@@ -1,4 +1,4 @@
-package day8_05032020;
+package Day8_05032020;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

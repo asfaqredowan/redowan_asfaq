@@ -1,4 +1,4 @@
-package day3_04182020;
+package Day3_04182020;
 
 public class method_execution {
     public static void main(String[] args) {

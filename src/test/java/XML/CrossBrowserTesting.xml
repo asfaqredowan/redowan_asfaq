@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite">
+    <test name="Chrome Automation Test" preserve-order="true">
+        <parameter name="Browser" value="Chrome"></parameter>
+        <classes>
+            <!-- All Person -->
+            <class name="Day15_06062020.Google_excel_Abstract_CrossBrowser" />
+        </classes>
+    </test> <!-- Test -->
+    <test name="Firefox Automation Test" preserve-order="true">
+        <parameter name="Browser" value="Firefox"></parameter>
+        <classes>
+            <!-- All Person -->
+            <class name="Day15_06062020.Google_excel_Abstract_CrossBrowser" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
